@@ -1,5 +1,5 @@
 export default {
-	_apiBase: 'http://ws.audioscrobbler.com/2.0',
+	_apiBase: 'https://ws.audioscrobbler.com/2.0',
 	_apiKey: '4a4f3a91b66a0be201fec84d2f9411e6',
 	_apiFormat: 'json',
 
